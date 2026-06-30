@@ -2,7 +2,7 @@
 
 An interactive, browser-based decision-support tool for comparing cycling safety interventions through a Benefit–Cost Ratio (BCR) framework. Developed as part of a PhD thesis at Instituto Superior Técnico, Universidade de Lisboa.
 
-🔗 **Live tool:** https://your-username.github.io/cycling-safety/
+🔗 **Live tool:** [https://anakarinachrist.github.io/cyclingsafety/]
 
 ## What it does
 
